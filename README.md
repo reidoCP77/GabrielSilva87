@@ -1,16 +1,22 @@
-## Hi there 👋
+# Experience 👨‍💻
 
-<!--
-**GabrielSilva87/GabrielSilva87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![PHP](https://img.icons8.com/color/48/000000/php.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![C](https://img.icons8.com/color/48/000000/c.png)
+![Django](https://img.icons8.com/color/48/000000/django.png)
+![Flask](https://img.icons8.com/color/48/000000/flask.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
+![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
+![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)
+![Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)
+![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png)
+![Premiere Pro](https://img.icons8.com/color/48/000000/adobe-premiere-pro.png)
+![Figma](https://img.icons8.com/color/48/000000/figma.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)

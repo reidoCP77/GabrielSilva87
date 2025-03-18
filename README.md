@@ -1,4 +1,4 @@
-GradientLine.gif
+![Linear](https://github.com/manulthanura/manulthanura/blob/main/GradientLine.gif)
 # Experience 👨‍💻
 
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)

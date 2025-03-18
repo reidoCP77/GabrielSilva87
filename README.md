@@ -1,4 +1,4 @@
-![Imagem] (https://media.licdn.com/dms/image/v2/D4D16AQFbFboUpcNcUA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1684259456252?e=2147483647&v=beta&t=OZ8QNzv0ZyfmU_72Ki4s_GOeWRtl64mj5-WaP4d1h1o)
+![Imagem](https://media.licdn.com/dms/image/v2/D4D16AQFbFboUpcNcUA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1684259456252?e=2147483647&v=beta&t=OZ8QNzv0ZyfmU_72Ki4s_GOeWRtl64mj5-WaP4d1h1o)
 ![Linear](https://github.com/manulthanura/manulthanura/blob/main/GradientLine.gif)
 # Experience 👨‍💻
 

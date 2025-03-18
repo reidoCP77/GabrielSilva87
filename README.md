@@ -17,6 +17,4 @@
 ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)
 ![Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)
 ![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png)
-![Premiere Pro](https://img.icons8.com/color/48/000000/adobe-premiere-pro.png)
-![Figma](https://img.icons8.com/color/48/000000/figma.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)

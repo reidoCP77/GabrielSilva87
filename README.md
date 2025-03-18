@@ -13,8 +13,4 @@
 ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
-![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)
-![Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)
-![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)

@@ -15,4 +15,4 @@
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
-![Metrics](https://github.com/manulthanura/manulthanura/blob/main/github-metrics.svg)
+![Metrics](https://github.com/GabrielSilva87/GabrielSilva87/blob/main/github-metrics.svg)

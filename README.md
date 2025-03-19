@@ -21,6 +21,6 @@
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ## GitHub Stats 🌟
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSilva87&show_icons=true&theme=radical) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSilva87&show_icons=true&theme=radical) 
 
    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva87&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> 

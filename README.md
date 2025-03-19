@@ -22,7 +22,7 @@
 
 ## GitHub Stats 🌟
 ![Visitas](https://komarev.com/ghpvc/?username=GabrielSilva87)
-[![Pague um café](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/GabrielSilva87)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSilva87&show_icons=true&theme=radical) 
 
    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva87&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> 

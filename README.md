@@ -24,12 +24,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
 [![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/seu-usuario)
 
-## Como Contribuir
-
-1. Faça um fork do projeto
-2. Crie uma branch nova
-3. Faça suas alterações
-4. Envie um pull request
 ## GitHub Stats 🌟
 ![Visitas](https://komarev.com/ghpvc/?username=GabrielSilva87)
 

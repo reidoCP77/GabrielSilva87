@@ -20,7 +20,7 @@
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 
-## Redes Sociais
+## Redes Sociais 📱
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&background=red)](https://github.com/GabrielSilva87)
 [![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gabrielSilva87)

@@ -22,7 +22,7 @@
 
 ## Redes Sociais
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&background=red)](https://github.com/seu-usuario)
 [![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/seu-usuario)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 

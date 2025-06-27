@@ -1,4 +1,3 @@
--- Cria a ScreenGui que conterá nossa interface
 local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 

@@ -1,1 +1,0 @@
-loadstring(game:httpGet("https://raw.githubusercontent.com/GabrielSilva87/GabrielSilva87/refs/heads/main/LUA/segundotest.lua")()

@@ -27,8 +27,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgomesdev746@gmail.com)
 
 ## GitHub Stats 🌟
-![Visitas](https://komarev.com/ghpvc/?username=GabrielSilva87)
+![Visitas](https://komarev.com/ghpvc/?username=reidoCP77)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSilva87&show_icons=true&theme=radical) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reidoCP77&show_icons=true&theme=radical) 
 
    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva87&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> 
